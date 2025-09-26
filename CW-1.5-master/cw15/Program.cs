@@ -1,0 +1,1 @@
+﻿Console.WriteLine("1\n" + " \n" + "2");

@@ -1,0 +1,14 @@
+D:\Games\ITe\CW-14\CW-14\bin\Debug\net8.0\CW-14.exe
+D:\Games\ITe\CW-14\CW-14\bin\Debug\net8.0\CW-14.deps.json
+D:\Games\ITe\CW-14\CW-14\bin\Debug\net8.0\CW-14.runtimeconfig.json
+D:\Games\ITe\CW-14\CW-14\bin\Debug\net8.0\CW-14.dll
+D:\Games\ITe\CW-14\CW-14\bin\Debug\net8.0\CW-14.pdb
+D:\Games\ITe\CW-14\CW-14\obj\Debug\net8.0\CW-14.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games\ITe\CW-14\CW-14\obj\Debug\net8.0\CW-14.AssemblyInfoInputs.cache
+D:\Games\ITe\CW-14\CW-14\obj\Debug\net8.0\CW-14.AssemblyInfo.cs
+D:\Games\ITe\CW-14\CW-14\obj\Debug\net8.0\CW-14.csproj.CoreCompileInputs.cache
+D:\Games\ITe\CW-14\CW-14\obj\Debug\net8.0\CW-14.dll
+D:\Games\ITe\CW-14\CW-14\obj\Debug\net8.0\refint\CW-14.dll
+D:\Games\ITe\CW-14\CW-14\obj\Debug\net8.0\CW-14.pdb
+D:\Games\ITe\CW-14\CW-14\obj\Debug\net8.0\CW-14.genruntimeconfig.cache
+D:\Games\ITe\CW-14\CW-14\obj\Debug\net8.0\ref\CW-14.dll

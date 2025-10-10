@@ -1,0 +1,7 @@
+C:\Users\konstantin\Desktop\kirbot\N-2.14\N-2.14\bin\Debug\N-2.14.exe.config
+C:\Users\konstantin\Desktop\kirbot\N-2.14\N-2.14\bin\Debug\N-2.14.exe
+C:\Users\konstantin\Desktop\kirbot\N-2.14\N-2.14\bin\Debug\N-2.14.pdb
+C:\Users\konstantin\Desktop\kirbot\N-2.14\N-2.14\obj\Debug\N-2.14.csproj.AssemblyReference.cache
+C:\Users\konstantin\Desktop\kirbot\N-2.14\N-2.14\obj\Debug\N-2.14.csproj.CoreCompileInputs.cache
+C:\Users\konstantin\Desktop\kirbot\N-2.14\N-2.14\obj\Debug\N-2.14.exe
+C:\Users\konstantin\Desktop\kirbot\N-2.14\N-2.14\obj\Debug\N-2.14.pdb

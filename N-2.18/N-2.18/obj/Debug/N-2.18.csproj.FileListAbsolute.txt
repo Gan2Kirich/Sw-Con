@@ -1,0 +1,7 @@
+C:\Users\konstantin\Desktop\kirbot\N-2.18\N-2.18\bin\Debug\N-2.18.exe.config
+C:\Users\konstantin\Desktop\kirbot\N-2.18\N-2.18\bin\Debug\N-2.18.exe
+C:\Users\konstantin\Desktop\kirbot\N-2.18\N-2.18\bin\Debug\N-2.18.pdb
+C:\Users\konstantin\Desktop\kirbot\N-2.18\N-2.18\obj\Debug\N-2.18.csproj.AssemblyReference.cache
+C:\Users\konstantin\Desktop\kirbot\N-2.18\N-2.18\obj\Debug\N-2.18.csproj.CoreCompileInputs.cache
+C:\Users\konstantin\Desktop\kirbot\N-2.18\N-2.18\obj\Debug\N-2.18.exe
+C:\Users\konstantin\Desktop\kirbot\N-2.18\N-2.18\obj\Debug\N-2.18.pdb

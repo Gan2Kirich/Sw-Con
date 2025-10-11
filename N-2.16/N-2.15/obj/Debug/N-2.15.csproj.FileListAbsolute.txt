@@ -1,0 +1,7 @@
+C:\Users\konstantin\source\repos\N-2.15\N-2.15\bin\Debug\N-2.15.exe.config
+C:\Users\konstantin\source\repos\N-2.15\N-2.15\bin\Debug\N-2.15.exe
+C:\Users\konstantin\source\repos\N-2.15\N-2.15\bin\Debug\N-2.15.pdb
+C:\Users\konstantin\source\repos\N-2.15\N-2.15\obj\Debug\N-2.15.csproj.AssemblyReference.cache
+C:\Users\konstantin\source\repos\N-2.15\N-2.15\obj\Debug\N-2.15.csproj.CoreCompileInputs.cache
+C:\Users\konstantin\source\repos\N-2.15\N-2.15\obj\Debug\N-2.15.exe
+C:\Users\konstantin\source\repos\N-2.15\N-2.15\obj\Debug\N-2.15.pdb

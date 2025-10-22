@@ -1,0 +1,14 @@
+D:\Games\ITe\N-2.22\N-2.22\obj\Debug\net8.0\N-2.22.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games\ITe\N-2.22\N-2.22\obj\Debug\net8.0\N-2.22.AssemblyInfoInputs.cache
+D:\Games\ITe\N-2.22\N-2.22\obj\Debug\net8.0\N-2.22.AssemblyInfo.cs
+D:\Games\ITe\N-2.22\N-2.22\obj\Debug\net8.0\N-2.22.csproj.CoreCompileInputs.cache
+D:\Games\ITe\N-2.22\N-2.22\bin\Debug\net8.0\N-2.22.exe
+D:\Games\ITe\N-2.22\N-2.22\bin\Debug\net8.0\N-2.22.deps.json
+D:\Games\ITe\N-2.22\N-2.22\bin\Debug\net8.0\N-2.22.runtimeconfig.json
+D:\Games\ITe\N-2.22\N-2.22\bin\Debug\net8.0\N-2.22.dll
+D:\Games\ITe\N-2.22\N-2.22\bin\Debug\net8.0\N-2.22.pdb
+D:\Games\ITe\N-2.22\N-2.22\obj\Debug\net8.0\N-2.22.dll
+D:\Games\ITe\N-2.22\N-2.22\obj\Debug\net8.0\refint\N-2.22.dll
+D:\Games\ITe\N-2.22\N-2.22\obj\Debug\net8.0\N-2.22.pdb
+D:\Games\ITe\N-2.22\N-2.22\obj\Debug\net8.0\N-2.22.genruntimeconfig.cache
+D:\Games\ITe\N-2.22\N-2.22\obj\Debug\net8.0\ref\N-2.22.dll

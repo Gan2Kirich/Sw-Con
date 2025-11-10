@@ -1,0 +1,14 @@
+D:\Games\ITe\N-3.3\N-3.3\bin\Debug\net8.0\N-3.3.exe
+D:\Games\ITe\N-3.3\N-3.3\bin\Debug\net8.0\N-3.3.deps.json
+D:\Games\ITe\N-3.3\N-3.3\bin\Debug\net8.0\N-3.3.runtimeconfig.json
+D:\Games\ITe\N-3.3\N-3.3\bin\Debug\net8.0\N-3.3.dll
+D:\Games\ITe\N-3.3\N-3.3\bin\Debug\net8.0\N-3.3.pdb
+D:\Games\ITe\N-3.3\N-3.3\obj\Debug\net8.0\N-3.3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games\ITe\N-3.3\N-3.3\obj\Debug\net8.0\N-3.3.AssemblyInfoInputs.cache
+D:\Games\ITe\N-3.3\N-3.3\obj\Debug\net8.0\N-3.3.AssemblyInfo.cs
+D:\Games\ITe\N-3.3\N-3.3\obj\Debug\net8.0\N-3.3.csproj.CoreCompileInputs.cache
+D:\Games\ITe\N-3.3\N-3.3\obj\Debug\net8.0\N-3.3.dll
+D:\Games\ITe\N-3.3\N-3.3\obj\Debug\net8.0\refint\N-3.3.dll
+D:\Games\ITe\N-3.3\N-3.3\obj\Debug\net8.0\N-3.3.pdb
+D:\Games\ITe\N-3.3\N-3.3\obj\Debug\net8.0\N-3.3.genruntimeconfig.cache
+D:\Games\ITe\N-3.3\N-3.3\obj\Debug\net8.0\ref\N-3.3.dll
